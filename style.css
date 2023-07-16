@@ -1,0 +1,43 @@
+li{
+  color: blue;
+  font-size: 15px;
+  font-family: 'Fasthand', cursive;
+}
+
+/* h2{
+  font-family: 'Ephesis', cursive;
+  font-size: 50px;
+} */
+
+.imagen-gatito{
+  width: 200px;
+  border-width: 10px;
+  border-color: blueviolet;
+  border-style: groove dashed dotted double;
+}
+
+.bordes-redondeados{
+  border-radius: 60%;
+  width: 100px;
+  border-color: aqua;
+  border-style: solid;
+}
+
+.lista-desordenada{
+  background-color: yellowgreen;
+}
+
+.lista-ordenada{
+  background-color: silver;
+}
+
+#title-app-gatos{
+  font-size: 30px;
+  color: violet;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+#parrafo-1{
+  color: black;
+  font-size: 13px;
+}
